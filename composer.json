@@ -10,8 +10,7 @@
         }
     ],
     "require": {
-        "php": ">=8.2",
-        "illuminate/support": "^10.0"
+        "php": ">=8.2"
     },
     "autoload": {
         "psr-4": {
